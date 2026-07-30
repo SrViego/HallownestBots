@@ -1,0 +1,9 @@
+[submodule "Morgana"]
+	path = Morgana
+	url = https://github.com/SrViego/Bot.git
+[submodule "Quirrel"]
+	path = Quirrel
+	url = https://github.com/SrViego/Quirrel.git
+[submodule "LiveBot"]
+	path = LiveBot
+	url = https://github.com/SrViego/LiveBot.git
